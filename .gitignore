@@ -1,0 +1,9 @@
+.vs/
+Android_ASTC/
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Content/StartContent/
+*.sln
+*.xcodeproj

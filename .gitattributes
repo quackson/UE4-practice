@@ -1,0 +1,4 @@
+Android_ASTC/ filter=lfs diff=lfs merge=lfs -text
+.apk filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
+Android_ASTC/demp3-arm7.apk filter=lfs diff=lfs merge=lfs -text
